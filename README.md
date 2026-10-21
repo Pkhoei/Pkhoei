@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi, I'm Parisa! 👋
+
+**Curiosity is my default setting.** 🔍
+
+I love exploring patterns, people, and complex data — turning questions into insights with Python & SQL.
 
 <!--
 **Pkhoei/Pkhoei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
