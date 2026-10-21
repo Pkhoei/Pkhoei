@@ -1,4 +1,4 @@
-### Hi, I'm Parisa! 👋
+### Hi, I'm Paris! 👋
 
 **Curiosity is my default setting.** 🔍
 
