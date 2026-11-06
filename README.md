@@ -2,7 +2,9 @@
 
 **Curiosity is my default setting.** 🔍
 
-I love exploring patterns, people, and complex data — turning questions into insights with Python & SQL.
+I explore patterns in data, complex systems, and real-world problems through data analysis, machine learning, and analytical modeling.
+
+My work combines Python, SQL, predictive modeling, and a research-oriented approach to understanding data and turning questions into meaningful insights.
 
 <!--
 **Pkhoei/Pkhoei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
